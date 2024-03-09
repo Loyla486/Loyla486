@@ -2,8 +2,8 @@
 -  I’m interested in ...
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
--  How to reach me: Look for a special urn in a keep.
--  Fun fact: I like skullfish.
+-  How to reach me: Look for a special urn in a keep, or put a tooth container under your pillow (Will not give you any money it is just to reach me).
+-  Fun fact: I like skullfish, and other food with the "Dark" attribute.
 
 Loyla486/Loyla486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
