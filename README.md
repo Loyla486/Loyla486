@@ -5,5 +5,5 @@
 -  How to reach me: Look for a special urn in a keep, or put a tooth container under your pillow.
 -  Fun fact: I like skullfish, and other food with the "Dark" attribute.
 
-Loyla486/Loyla486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile, and I am the best and darkest fairy in the world.
+Loyla486/Loyla486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile, and I am the best and darkest fairy in the universe.
 You can click the Preview link to take a look at your changes.
