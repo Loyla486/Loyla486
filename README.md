@@ -1,5 +1,5 @@
 -  Hi, I’m @Loyla486 ...
--  *I like forking things. My forks are not maintained unless specified!*
+-  **I like forking things. My forks are not maintained unless specified!**
 -  I’m interested in open-source/emulation.
 -  I’m currently learning code/emulation.
 -  I’m looking to collaborate on emulation.
