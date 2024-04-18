@@ -3,7 +3,7 @@
 -  I’m interested in open-source/emulation.
 -  I’m currently learning code/emulation.
 -  I’m looking to collaborate on emulation.
--  How to reach me: Fairy Blast!
+-  How to reach me: Find me in Adventure Map L-8 in Enemey Base (in a biege urn).
 -  Fun fact: I love skullfish, and any other food/drink with the "Dark" attribute.
 
   
