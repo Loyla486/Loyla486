@@ -1,6 +1,6 @@
 -  Hi, I’m @Loyla486 ...
 -  **I like forking things. My forks are not maintained unless specified!**
--  I’m interested in open-source/emulation.
+-  I’m interested in open-source development/emulation.
 -  I’m currently learning code/emulation.
 -  I’m looking to collaborate on emulation.
 -  How to reach me: Find me in Adventure Map L-8 in Enemy Base in a biege urn.
