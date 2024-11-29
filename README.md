@@ -5,3 +5,4 @@
 -  I’m looking to collaborate on emulation.
 -  How to reach me: Find me in Adventure Map L-8 in Enemy Base in a biege urn.
 -  Fun fact: I love skullfish, and any other food/drink with the "Dark" attribute.
+-  What is it that you aspire to?
