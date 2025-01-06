@@ -5,4 +5,5 @@
 -  I’m looking to collaborate on emulation.
 -  How to reach me: Find me in Adventure Map L-8 in Enemy Base in a biege urn.
 -  Fun fact: I love Skullfish, Chateau Romani, and any other food/drink with the "Dark" attribute.
+   - I also may or may not be the Queen of the Fairy Forest.
 -  "What is it that you aspire to?"
